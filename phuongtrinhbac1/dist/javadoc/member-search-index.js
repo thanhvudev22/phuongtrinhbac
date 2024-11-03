@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"phuongtrinhbac1","c":"Phuongtrinhbac1","l":"giaiPhuongTrinh(double, double)","u":"giaiPhuongTrinh(double,double)"},{"p":"phuongtrinhbac1","c":"Phuongtrinhbac1","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"phuongtrinhbac1","c":"Phuongtrinhbac1","l":"Phuongtrinhbac1()","u":"%3Cinit%3E()"}];updateSearchResults();
